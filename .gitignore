@@ -1,0 +1,4 @@
+/.vs
+/Debug
+/src/glext.h
+*.sdf
